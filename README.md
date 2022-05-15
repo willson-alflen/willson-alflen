@@ -1,7 +1,7 @@
 ## Hi there! I'm Willson. Welcome to my profile.
 
 
-- 🔭 I’m a former student of [DigitalHouseBrasil](https://www.digitalhouse.com/br).
+- 👨‍🎓 I’m a former student of [DigitalHouseBrasil](https://www.digitalhouse.com/br).
 - 🔭 My focus is on web development.
 - 🎸 My favorite hobbie is playing the guitar (although I'm definitely not good at it 😅).
 
