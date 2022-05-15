@@ -2,12 +2,13 @@
 
 
 - 🔭 I’m a former student of [DigitalHouseBrasil](https://www.digitalhouse.com/br).
-- 🌱 I’m keeping on learning html, css, bootstrap, javascript, node.js, express, template engines and so much more...
-- 📫 How to reach me:  [linkedin](https://www.linkedin.com/in/willson-alflen-65b496218/).
+- 🔭 My focus is on web development.
+- 🎸 My favorite hobbie is playing the guitar (although I'm definitely not good at it 😅).
 
 <hr>
 
 ### I'm more comfortable with:
+
 <div style= "display: inline_block">
   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
