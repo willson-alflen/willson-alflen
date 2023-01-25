@@ -2,6 +2,7 @@
 
 
 - 👨‍🎓 I’m a former student of [DigitalHouseBrasil](https://www.digitalhouse.com/br).
+- :sunglasses: I'm currently studying at [EBAC](https://ebaconline.com.br/).
 - 🔭 My focus is on web development.
 - 🎸 My favorite hobbie is playing the guitar (although I'm definitely not good at it 😅).
 
